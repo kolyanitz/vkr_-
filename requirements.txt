@@ -2,9 +2,9 @@ streamlit
 pandas
 numpy
 plotly
-sklearn
-statsmodels==0.14.0
-scipy==1.11.3
+scikit-learn
+statsmodels
+scipy
 moexalgo
 yfinance
 ta
