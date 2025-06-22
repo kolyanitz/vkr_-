@@ -2,14 +2,9 @@ streamlit
 pandas
 numpy
 plotly
-sklearn
+scikit-learn
 statsmodels
 scipy
 moexalgo
 yfinance
-random
-datetime
-os
 ta
-sklearn
-itertools
