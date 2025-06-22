@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 plotly
-scikit-learn
+sklearn
 statsmodels
 scipy
 moexalgo
